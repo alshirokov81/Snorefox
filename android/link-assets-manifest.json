@@ -1,0 +1,22 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Inter-Medium.ttf",
+      "sha1": "5853c71ae27d0f5d63c514ccad04efe5ccc32a49"
+    },
+    {
+      "path": "src/assets/fonts/SFCompactText-Bold.ttf",
+      "sha1": "0c25ba5e121bdc38893eb6feaf0993e59dd49ea9"
+    },
+    {
+      "path": "src/assets/fonts/SFCompactText-Medium.ttf",
+      "sha1": "dcd327682224f204bb5ec67571e53f32a5e2bf94"
+    },
+    {
+      "path": "src/assets/fonts/SFCompactText-Regular.ttf",
+      "sha1": "a3b435af3e5c4c3a3125333a5577b7e31796b821"
+    }
+  ]
+}
+aaa
